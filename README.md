@@ -1,2 +1,1 @@
-# ehukkaga
-for thukaga
+# ssr
